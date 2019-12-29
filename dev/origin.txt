@@ -1,0 +1,1276 @@
+Uri: https://www.nikahforever.com/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/template_canvas/images/banner5.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/template_canvas/images/img2.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/template_canvas/css/bootstrap.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/style.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\style.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/css/swiper.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\swiper.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/css/dark.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\dark.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/css/font-icons.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\font-icons.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/css/animate.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\animate.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/css/magnific-popup.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/css/responsive.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\responsive.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template_canvas/css/components/bs-select.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\components\bs-select.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/font-awesome/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/ionicons/css/ionicons.min.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\ionicons\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons/line-icons.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons\line-icons.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/line-icons-pro.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\line-icons-pro.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/linea/arrows/linea-icons.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\arrows\linea-icons.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/linea/basic/linea-icons.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\basic\linea-icons.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/linea/ecommerce/linea-icons.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\ecommerce\linea-icons.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/template/front/fonts/linea/software/linea-icons.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\software\linea-icons.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/uploads/favicon/favicon_1515409281.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\uploads\favicon\favicon_1515409281.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/forget_pass
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\forget_pass.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/terms_and_conditions
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\terms_and_conditions.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/about
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\about.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/contact
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\contact.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/privacy_policy
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\privacy_policy.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/faq
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\faq.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/template/front/vendor/jquery/jquery.min.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/template_canvas/images/logo_nikha_2.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\logo_nikha_2.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/logo_nikha.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\logo_nikha.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template/front/js/jquery.inputmask.bundle.min.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\js\jquery.inputmask.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/template_canvas/js/jquery.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/template_canvas/js/plugins.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/template_canvas/js/functions.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\js\functions.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/template_canvas/js/components/bs-select.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\js\components\bs-select.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/template_canvas/images/icons/menu-divider.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\menu-divider.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/close.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\close.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/pattern2.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\pattern2.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/grid.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\grid.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/pattern.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\pattern.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/parallax/parallax-bg.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\parallax\parallax-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/template_canvas/images/icons/iconalt.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\iconalt.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template_canvas/images/preloader.gif
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\preloader.gif
+Content Type: image/gif
+
+Uri: https://nikahforever.com/template_canvas/images/icons/play.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\play.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/dotted.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\dotted.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-comment.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-comment.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-link.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-link.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/submenu-dark.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\submenu-dark.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/preloader-dark.gif
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\preloader-dark.gif
+Content Type: image/gif
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-comment-dark.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-comment-dark.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-link-dark.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-link-dark.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/font-icons.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\font-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/font-icons.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\font-icons.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/font-icons.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\font-icons.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/font-icons.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\font-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/lined-icons.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\lined-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/lined-icons.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\lined-icons.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/lined-icons.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\lined-icons.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/lined-icons.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\lined-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/Simple-Line-Icons.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/Simple-Line-Icons.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/Simple-Line-Icons.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/Simple-Line-Icons.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\Simple-Line-Icons.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template_canvas/css/fonts/Simple-Line-Icons.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\css\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template_canvas/images/icons/submenu.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\submenu.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/preloader@2x.gif
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\preloader@2x.gif
+Content Type: image/gif
+
+Uri: https://nikahforever.com/template_canvas/images/preloader-dark@2x.gif
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\preloader-dark@2x.gif
+Content Type: image/gif
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-comment@2x.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-comment@2x.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-link@2x.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-link@2x.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-comment-dark@2x.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-comment-dark@2x.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template_canvas/images/icons/widget-link-dark@2x.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\icons\widget-link-dark@2x.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/template/front/fonts/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://nikahforever.com/template/front/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\font-awesome\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/ionicons/fonts/ionicons.eot?v=2.0.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\ionicons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/ionicons/fonts/ionicons.ttf?v=2.0.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\ionicons\fonts\ionicons.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/ionicons/fonts/ionicons.woff?v=2.0.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\ionicons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/ionicons/fonts/ionicons.svg?v=2.0.0
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\ionicons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons/fonts/Simple-Line-Icons.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons/fonts/Simple-Line-Icons.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons/fonts/Simple-Line-Icons.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons/fonts/Simple-Line-Icons.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons\fonts\Simple-Line-Icons.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons/fonts/Simple-Line-Icons.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/christmas/webfont/cristmas.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\christmas\webfont\cristmas.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/christmas/webfont/cristmas.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\christmas\webfont\cristmas-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/christmas/webfont/cristmas.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\christmas\webfont\cristmas.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/christmas/webfont/cristmas.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\christmas\webfont\cristmas.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/christmas/webfont/cristmas.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\christmas\webfont\cristmas.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/clothes/webfont/clothes.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\clothes\webfont\clothes.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/clothes/webfont/clothes.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\clothes\webfont\clothes-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/clothes/webfont/clothes.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\clothes\webfont\clothes.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/clothes/webfont/clothes.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\clothes\webfont\clothes.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/clothes/webfont/clothes.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\clothes\webfont\clothes.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/communication/webfont/communication-48-x-48.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\communication\webfont\communication-48-x-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/communication/webfont/communication-48-x-48.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\communication\webfont\communication-48-x-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/communication/webfont/communication-48-x-48.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\communication\webfont\communication-48-x-48.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/communication/webfont/communication-48-x-48.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\communication\webfont\communication-48-x-48.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/communication/webfont/communication-48-x-48.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\communication\webfont\communication-48-x-48.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/education/webfont/education-48.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\education\webfont\education-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/education/webfont/education-48.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\education\webfont\education-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/education/webfont/education-48.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\education\webfont\education-48.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/education/webfont/education-48.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\education\webfont\education-48.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/education/webfont/education-48.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\education\webfont\education-48.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/electronics/webfont/electronics.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\electronics\webfont\electronics.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/electronics/webfont/electronics.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\electronics\webfont\electronics-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/electronics/webfont/electronics.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\electronics\webfont\electronics.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/electronics/webfont/electronics.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\electronics\webfont\electronics.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/electronics/webfont/electronics.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\electronics\webfont\electronics.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/finance/webfont/finance.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\finance\webfont\finance.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/finance/webfont/finance.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\finance\webfont\finance-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/finance/webfont/finance.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\finance\webfont\finance.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/finance/webfont/finance.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\finance\webfont\finance.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/finance/webfont/finance.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\finance\webfont\finance.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/food/webfont/food-48.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\food\webfont\food-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/food/webfont/food-48.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\food\webfont\food-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/food/webfont/food-48.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\food\webfont\food-48.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/food/webfont/food-48.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\food\webfont\food-48.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/food/webfont/food-48.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\food\webfont\food-48.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/furniture/webfont/furniture.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\furniture\webfont\furniture.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/furniture/webfont/furniture.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\furniture\webfont\furniture-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/furniture/webfont/furniture.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\furniture\webfont\furniture.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/furniture/webfont/furniture.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\furniture\webfont\furniture.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/furniture/webfont/furniture.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\furniture\webfont\furniture.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/hotel-restaurant/webfont/hotel-restaurant.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\hotel-restaurant\webfont\hotel-restaurant.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/hotel-restaurant/webfont/hotel-restaurant.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\hotel-restaurant\webfont\hotel-restaurant-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/hotel-restaurant/webfont/hotel-restaurant.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\hotel-restaurant\webfont\hotel-restaurant.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/hotel-restaurant/webfont/hotel-restaurant.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\hotel-restaurant\webfont\hotel-restaurant.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/hotel-restaurant/webfont/hotel-restaurant.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\hotel-restaurant\webfont\hotel-restaurant.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/media/webfont/media.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\media\webfont\media.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/media/webfont/media.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\media\webfont\media-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/media/webfont/media.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\media\webfont\media.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/media/webfont/media.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\media\webfont\media.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/media/webfont/media.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\media\webfont\media.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/medical/webfont/medical-and-health.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\medical\webfont\medical-and-health.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/medical/webfont/medical-and-health.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\medical\webfont\medical-and-health-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/medical/webfont/medical-and-health.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\medical\webfont\medical-and-health.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/medical/webfont/medical-and-health.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\medical\webfont\medical-and-health.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/medical/webfont/medical-and-health.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\medical\webfont\medical-and-health.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/music/webfont/music.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\music\webfont\music.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/music/webfont/music.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\music\webfont\music-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/music/webfont/music.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\music\webfont\music.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/music/webfont/music.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\music\webfont\music.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/music/webfont/music.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\music\webfont\music.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/real-estate/webfont/real-estate.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\real-estate\webfont\real-estate.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/real-estate/webfont/real-estate.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\real-estate\webfont\real-estate-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/real-estate/webfont/real-estate.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\real-estate\webfont\real-estate.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/real-estate/webfont/real-estate.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\real-estate\webfont\real-estate.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/real-estate/webfont/real-estate.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\real-estate\webfont\real-estate.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/science/webfont/science.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\science\webfont\science.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/science/webfont/science.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\science\webfont\science-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/science/webfont/science.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\science\webfont\science.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/science/webfont/science.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\science\webfont\science.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/science/webfont/science.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\science\webfont\science.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/sports/webfont/sports-48-x-48.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\sports\webfont\sports-48-x-48.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/sports/webfont/sports-48-x-48.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\sports\webfont\sports-48-x-48-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/sports/webfont/sports-48-x-48.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\sports\webfont\sports-48-x-48.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/sports/webfont/sports-48-x-48.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\sports\webfont\sports-48-x-48.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/sports/webfont/sports-48-x-48.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\sports\webfont\sports-48-x-48.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/travel/webfont/travel.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\travel\webfont\travel.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/travel/webfont/travel.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\travel\webfont\travel-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/travel/webfont/travel.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\travel\webfont\travel.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/travel/webfont/travel.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\travel\webfont\travel.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/travel/webfont/travel.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\travel\webfont\travel.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/weather/webfont/weather.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\weather\webfont\weather.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/weather/webfont/weather.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\weather\webfont\weather-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/weather/webfont/weather.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\weather\webfont\weather.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/weather/webfont/weather.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\weather\webfont\weather.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/weather/webfont/weather.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\weather\webfont\weather.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/transport/webfont/transport.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\transport\webfont\transport.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/transport/webfont/transport.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\transport\webfont\transport-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/transport/webfont/transport.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\transport\webfont\transport.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/transport/webfont/transport.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\transport\webfont\transport.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/line-icons-pro/transport/webfont/transport.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\line-icons-pro\transport\webfont\transport.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/linea/arrows/fonts/linea-arrows-10.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\arrows\fonts\linea-arrows-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/arrows/fonts/linea-arrows-10.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\arrows\fonts\linea-arrows-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/arrows/fonts/linea-arrows-10.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\arrows\fonts\linea-arrows-10.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/linea/arrows/fonts/linea-arrows-10.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\arrows\fonts\linea-arrows-10.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/linea/arrows/fonts/linea-arrows-10.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\arrows\fonts\linea-arrows-10.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/linea/basic/fonts/linea-basic-10.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\basic\fonts\linea-basic-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/basic/fonts/linea-basic-10.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\basic\fonts\linea-basic-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/basic/fonts/linea-basic-10.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\basic\fonts\linea-basic-10.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/linea/basic/fonts/linea-basic-10.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\basic\fonts\linea-basic-10.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/linea/basic/fonts/linea-basic-10.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\basic\fonts\linea-basic-10.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/linea/ecommerce/fonts/linea-ecommerce-10.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\ecommerce\fonts\linea-ecommerce-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/ecommerce/fonts/linea-ecommerce-10.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\ecommerce\fonts\linea-ecommerce-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/ecommerce/fonts/linea-ecommerce-10.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\ecommerce\fonts\linea-ecommerce-10.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/linea/ecommerce/fonts/linea-ecommerce-10.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\ecommerce\fonts\linea-ecommerce-10.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/linea/ecommerce/fonts/linea-ecommerce-10.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\ecommerce\fonts\linea-ecommerce-10.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template/front/fonts/linea/software/fonts/linea-software-10.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\software\fonts\linea-software-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/software/fonts/linea-software-10.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\software\fonts\linea-software-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/template/front/fonts/linea/software/fonts/linea-software-10.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\software\fonts\linea-software-10.woff
+Content Type: font/woff
+
+Uri: https://nikahforever.com/template/front/fonts/linea/software/fonts/linea-software-10.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\software\fonts\linea-software-10.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/template/front/fonts/linea/software/fonts/linea-software-10.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template\front\fonts\linea\software\fonts\linea-software-10.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/template_canvas/images/otp2.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\otp2.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/login
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\login.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://nikahforever.com/template_canvas/images/logo_1.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\template_canvas\images\logo_1.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/comments/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/blog/wp-includes/css/dist/block-library/theme.min.css?ver=5.1.1
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-includes\css\dist\block-library\theme.min.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/blog/wp-content/themes/primer/style.css?ver=5.1.1
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\themes\primer\style.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/blog/wp-json/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\index.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/xmlrpc.php?rsd
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/wp-includes/wlwmanifest.xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://nikahforever.com/blog/duties-of-a-wife/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\duties-of-a-wife\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/author/nawsheen/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\author\nawsheen\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/category/muslim-marriage/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\category\muslim-marriage\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/tag/india-muslim-marriage/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\india-muslim-marriage\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/tag/muslim-groom/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-groom\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/tag/muslim-marriage/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-marriage\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/tag/muslim-matrimonial/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-matrimonial\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/tag/muslim-nikah/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-nikah\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/mehar-in-islam/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\mehar-in-islam\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/tag/muslim-bride/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-bride\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/family-in-ramadan/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\family-in-ramadan\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/category/uncategorized/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/taqwa-in-marriage/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\taqwa-in-marriage\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/nikah-halala/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\nikah-halala\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/the-first-halaal-love-story-in-my-islam/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\the-first-halaal-love-story-in-my-islam\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/the-panacea-for-a-successful-marriage/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\the-panacea-for-a-successful-marriage\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/choose-wisely/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\choose-wisely\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/Nikah-Forever-Logo-White.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\Nikah-Forever-Logo-White.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/blog/wp-content/themes/primer/assets/js/navigation.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\themes\primer\assets\js\navigation.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/wp-content/themes/primer/assets/js/skip-link-focus-fix.min.js?ver=1.8.6
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\themes\primer\assets\js\skip-link-focus-fix.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/wp-includes/js/wp-embed.min.js?ver=5.1.1
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/Nikah-Forever-Logo-White-300x75.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\Nikah-Forever-Logo-White-300x75.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/Nikah-Forever-Logo-White-768x192.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\Nikah-Forever-Logo-White-768x192.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/Nikah-Forever-Logo-White-1024x256.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\Nikah-Forever-Logo-White-1024x256.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/Nikah-Forever-Logo-White-1600x400.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\Nikah-Forever-Logo-White-1600x400.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://nikahforever.com/cdn-cgi/scripts/zepto.min.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/cdn-cgi/scripts/cf.common.js
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/wp-content/themes/primer/assets/genericons/Genericons.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\themes\primer\assets\genericons\Genericons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/blog/wp-content/themes/primer/assets/genericons/Genericons.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\themes\primer\assets\genericons\Genericons.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/blog/wp-content/themes/primer/assets/genericons/Genericons.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\themes\primer\assets\genericons\Genericons.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/blog/duties-of-a-wife/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\duties-of-a-wife\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fduties-of-a-wife%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fduties-of-a-wife%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/wp-includes/js/comment-reply.min.js?ver=5.1.1
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://nikahforever.com/blog/author/nawsheen/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\author\nawsheen\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/category/muslim-marriage/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\category\muslim-marriage\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/tag/india-muslim-marriage/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\india-muslim-marriage\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/tag/muslim-groom/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-groom\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/tag/muslim-marriage/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-marriage\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/tag/muslim-matrimonial/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-matrimonial\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/tag/muslim-nikah/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-nikah\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/mehar-in-islam/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\mehar-in-islam\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fmehar-in-islam%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fmehar-in-islam%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/tag/muslim-bride/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\tag\muslim-bride\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/family-in-ramadan/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\family-in-ramadan\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Ffamily-in-ramadan%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Ffamily-in-ramadan%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/category/uncategorized/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\category\uncategorized\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/taqwa-in-marriage/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\taqwa-in-marriage\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Ftaqwa-in-marriage%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Ftaqwa-in-marriage%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/nikah-halala/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\nikah-halala\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fnikah-halala%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fnikah-halala%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/the-first-halaal-love-story-in-my-islam/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\the-first-halaal-love-story-in-my-islam\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fthe-first-halaal-love-story-in-my-islam%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fthe-first-halaal-love-story-in-my-islam%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/Muhammad-The-Prophet-of-Mercy-680x452-300x199.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\Muhammad-The-Prophet-of-Mercy-680x452-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/Muhammad-The-Prophet-of-Mercy-680x452.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\Muhammad-The-Prophet-of-Mercy-680x452.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/blog/the-panacea-for-a-successful-marriage/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\the-panacea-for-a-successful-marriage\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fthe-panacea-for-a-successful-marriage%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fthe-panacea-for-a-successful-marriage%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/the-panacea-for-a-successful-marriage/?replytocom=2
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\the-panacea-for-a-successful-marriage\index.htm
+Content Type: text/html
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/bride-e1505959480190-300x200.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\bride-e1505959480190-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/bride-e1505959480190.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\bride-e1505959480190.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/blog/choose-wisely/feed/
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\choose-wisely\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fchoose-wisely%2F
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://nikahforever.com/blog/wp-json/oembed/1.0/embed?url=https:%2F%2Fnikahforever.com%2Fblog%2Fchoose-wisely%2F&format=xml
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/2a48dc39f6ac3991570316d07844de68-300x153.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\2a48dc39f6ac3991570316d07844de68-300x153.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/2a48dc39f6ac3991570316d07844de68-768x392.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\2a48dc39f6ac3991570316d07844de68-768x392.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/blog/wp-content/uploads/2019/04/2a48dc39f6ac3991570316d07844de68.jpg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\blog\wp-content\uploads\2019\04\2a48dc39f6ac3991570316d07844de68.jpg
+Content Type: image/jpeg
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: https://nikahforever.com/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://nikahforever.com/cdn-cgi/images/error_icons.png
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://nikahforever.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\www.nikahforever.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+

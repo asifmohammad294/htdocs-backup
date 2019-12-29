@@ -1,0 +1,116 @@
+.works-awt-container {
+	filter:alpha(opacity=0);
+	font-family:empty;
+	font-size:0;
+	opacity:0;
+	position:relative;
+	width:100%;
+	zoom:1
+}
+.works-awt-container>* {
+	font-family:sans-serif;
+	font-size:18px
+}
+.works-awt-container img {
+	max-width:100%
+}
+.our-works-item {
+	display:inline-block;
+}
+.our-works-thumbnail {
+	height:100%;
+	text-align:center;
+	position:relative;
+	width:100%
+}
+.our-works-arrow {
+	border-bottom:10px solid;
+	border-left:10px solid transparent;
+	border-right:10px solid transparent;
+	bottom:-15px;
+	display:none;
+	height:0;
+	position:absolute;
+	width:0;
+	z-index:2
+}
+.our-works-thumbnail-content {
+	height:100%;
+	overflow:hidden;
+	width:100%
+}
+.our-works-thumbnail-content img {
+	vertical-align:middle
+}
+.our-works-details {
+	left:0;
+	margin-top:15px;
+	overflow:hidden;
+	position:absolute;
+	width:100%
+}
+.our-works-close {
+	cursor:pointer;
+	display:block;
+	position:absolute;
+	z-index:2
+}
+.our-works-details-content {
+	height:auto
+}
+.our-works-thumbnail {
+	background: #686868;
+	color: #ffffff;
+	cursor: pointer;
+}
+.our-works-arrow {
+	border-bottom-color: #e3e3e3;
+}
+.our-works-close {
+	background: url(../images/works/wmg-btn-close.png) no-repeat 0px 0px;
+	display: block;
+	height: 30px;
+	right: 10px;
+	top: 5px;
+	width: 30px;
+}
+.our-works-close:hover, .our-works-close:active {
+	background-position: 0px -31px;
+}
+.our-works-details-content {
+	background: #e3e3e3;
+	padding:15px 0 0 0;
+}
+/* opened */
+.works-awt-container.open {
+	background: #000000;
+}
+.works-awt-container.open .our-works-thumbnail {
+	background: #242424;
+	color: #242424;
+}
+.works-awt-container.open .our-works-thumbnail.open {
+	background: #e3e3e3;
+}
+.works-awt-container.open .our-works-thumbnail img {
+	-moz-opacity: 0.20;
+	-khtml-opacity: 0.20;
+	opacity: 0.20;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=20);
+}
+.works-awt-container.open .our-works-thumbnail:hover img {
+	-moz-opacity: 0.40;
+	-khtml-opacity: 0.40;
+	opacity: 0.40;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=40);
+}
+.works-awt-container.open .our-works-thumbnail.open img {
+	-moz-opacity: 1;
+	-khtml-opacity: 1;
+	opacity: 1;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha"(Opacity=100);
+}
+a.works_btn {
+	margin: 38px 0 30px 0;
+	padding: 12px 54px;
+}
